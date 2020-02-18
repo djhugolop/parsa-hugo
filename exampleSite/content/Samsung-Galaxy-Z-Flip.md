@@ -3,7 +3,7 @@ title: SAMSUNG GALAXY Z FLIP
 date: 2020-02-11T09:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/galaxy-z-flip_highlight_kv_end.webp"
+image: "/images/estaes.webp"
 categories:
 - Samsung
 - Android
