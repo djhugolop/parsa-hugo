@@ -2,7 +2,6 @@
 categories = ["Android", "Samsung"]
 date = 2019-02-20T07:46:10Z
 description = "This is meta description"
-draft = true
 image = "/images/S10 .jpg"
 tags = ["Technology ", "Samsung", "S10+", "Review"]
 title = "SAMSUNG GALAXY S10+"
