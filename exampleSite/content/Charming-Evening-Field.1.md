@@ -19,7 +19,7 @@ Si quieres lo último y lo mejor, el Samsung Galaxy S20 Plus e incluso el Samsun
 
 Inmediatamente nos sentimos atraídos por el Galaxy S10 Plus como la versión más grande y mejor del Galaxy S10 y el Galaxy S10e más barato . Redefine lo que es un 'phablet' en 2019, con una pantalla de borde a borde de 6.4 pulgadas tan grande que desplaza la cámara frontal a un agujero en la esquina superior. Es la respuesta marginalmente mejor de Samsung a la muesca del iPhone XS .
 
-![](/images/S10  2.jpg)
+![](https://images.samsung.com/cl/smartphones/galaxy-s10/design/images/galaxy-s10_design_colors_glass.jpg)
 
 Con una relación pantalla-cuerpo del 93,1%, los píxeles ahora se extienden desde el pequeño altavoz superior hasta el mentón inferior delgado, y se extienden sobre los bordes curvos izquierdo y derecho. Esta es la mejor pantalla de un teléfono inteligente, sin excepción. Oculto debajo del cristal hay un sensor ultrasónico de huellas dactilares en la parte delantera y la nueva función Wireless PowerShare en la parte posterior, que le permite cargar Qi a otros dispositivos.
 
@@ -27,7 +27,7 @@ La parte posterior tiene una cámara de triple lente que toma fotos normales, te
 
 Hemos visto algunas de estas ideas antes de Huawei y LG. Pero el S10 Plus es una amalgama de características distintivas en los teléfonos rivales con una dosis de aspectos de lanzamiento inicial como Wi-Fi 6 más rápido y una pantalla HDR10 +. Es el mejor paquete general entre los grandes y caros teléfonos inteligentes.
 
-![](/images/S10 3.jpg)
+![](https://images.samsung.com/cl/smartphones/galaxy-s10/design/images/galaxy-s10_design_amoled_video-end.jpg)
 
 ¿Vendido? Para complicar su decisión de compra, el Galaxy S10 5G es un teléfono S10 aún más grande y mejor, el Samsung Galaxy Note 10 Plus es aún más premium como un teléfono inteligente Samsung, y si tiene todo el dinero del mundo, el Samsung plegable Galaxy Fold también está disponible para comprar.
 
