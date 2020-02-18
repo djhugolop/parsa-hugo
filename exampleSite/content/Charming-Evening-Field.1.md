@@ -2,7 +2,7 @@
 title: SAMSUNG GALAXY S10+
 date: 2019-02-20T07:46:10+00:00
 description: This is meta description
-type: post, featured
+type: post
 image: "/images/S10 .jpg"
 categories:
 - Android
