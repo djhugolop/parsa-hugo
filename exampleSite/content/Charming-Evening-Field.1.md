@@ -27,6 +27,8 @@ La parte posterior tiene una cámara de triple lente que toma fotos normales, te
 
 Hemos visto algunas de estas ideas antes de Huawei y LG. Pero el S10 Plus es una amalgama de características distintivas en los teléfonos rivales con una dosis de aspectos de lanzamiento inicial como Wi-Fi 6 más rápido y una pantalla HDR10 +. Es el mejor paquete general entre los grandes y caros teléfonos inteligentes.
 
+![](/images/S10 3.jpg)
+
 ¿Vendido? Para complicar su decisión de compra, el Galaxy S10 5G es un teléfono S10 aún más grande y mejor, el Samsung Galaxy Note 10 Plus es aún más premium como un teléfono inteligente Samsung, y si tiene todo el dinero del mundo, el Samsung plegable Galaxy Fold también está disponible para comprar.
 
 A pesar de estos teléfonos más nuevos, el S10 Plus es el mejor teléfono Samsung, si puede manejar el precio y el tamaño.
