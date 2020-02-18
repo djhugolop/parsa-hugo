@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
 author = "Deeper"
-author_image = "images/banner-img.png"
+author_image = "#"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [Hugo](instagram.com/willdebest_hll)"
