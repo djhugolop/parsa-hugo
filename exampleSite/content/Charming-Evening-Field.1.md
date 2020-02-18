@@ -2,13 +2,16 @@
 title: SAMSUNG GALAXY S10+
 date: 2019-02-20T07:46:10+00:00
 description: This is meta description
-type: post
+type: post, featured
 image: "/images/S10 .jpg"
 categories:
-- Food
+- Android
+- Samsung
 tags:
-- Photos
-- Food
+- 'Technology '
+- Samsung
+- S10+
+- Review
 
 ---
 El Samsung Galaxy S10 Plus es el teléfono Samsung casi todo incluido que realmente desea, si puede permitírselo y manejar su enorme pantalla de 6.4 pulgadas.
