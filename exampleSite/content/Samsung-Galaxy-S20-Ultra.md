@@ -3,7 +3,7 @@ title: SAMSUNG GALAXY S20 ULTRA
 date: 2020-02-11T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/galaxy-s20_models_color_s20ultra_gray.jpg"
+image: "/images/s20ultra.jpg"
 categories:
 - Samsung
 - Android
